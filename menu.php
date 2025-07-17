@@ -1,3 +1,6 @@
 <?php
-    echo "Mahanakorn";
+    echo "Home";
+    echo "product";
+    echo "Map";
+    echo "About me";
 ?>
